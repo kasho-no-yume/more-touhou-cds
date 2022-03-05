@@ -1,0 +1,54 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "kgm",
+    "sdE",
+    "eSt"
+  ],
+  "key":
+  {
+    "d":
+    {
+      "item": "minecraft:diamond_block"
+    },
+    "g":
+    {
+      "item": "minecraft:gold_block"
+    },
+    "s":
+    {
+      "item": "minecraft:skull",
+      "data": 5
+    },
+    "e":
+    {
+      "item": "minecraft:elytra"
+    },
+    "E":
+    {
+      "item": "minecraft:dragon_egg"
+    },
+    "S":
+    {
+      "item": "minecraft:nether_star"
+    },
+    "t":
+    {
+      "item": "minecraft:totem_of_undying"
+    },
+    "k":
+    {
+      "item": "moretouhoucds:kashonoyume"
+    },
+    "m":
+    {
+      "item": "moretouhoucds:mukougawanozuki"
+    }
+  },
+  "result":
+  {
+    "item": "moretouhoucds:xxhh",
+    "count": 1
+  }
+}

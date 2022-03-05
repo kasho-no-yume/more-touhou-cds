@@ -1,0 +1,302 @@
+{
+  "kashonoyume":
+  {
+    "catagory": "record",
+    "subtitle": "华胥之梦",
+    "sounds":[{ "name":"moretouhoucds:华胥之梦","stream":true}]
+  },
+  "intermezzo":
+  {
+    "catagory": "record",
+    "subtitle": "intermezzo",
+    "sounds": [{"name": "moretouhoucds:Intermezzo","stream": true}]
+  },
+  "unowen":
+  {
+    "catagory": "record",
+    "subtitle": "u.n.owen",
+    "sounds": [{"name": "moretouhoucds:un彼女","stream": true}]
+  },
+  "biancan":
+  {
+    "catagory": "record",
+    "subtitle": "遍参",
+    "sounds":[{"name": "moretouhoucds:遍参","stream": true}]
+  },
+  "yingsezhihai":
+  {
+  "catagory": "record",
+  "subtitle": "徜徉在樱色的海洋",
+  "sounds":[{"name": "moretouhoucds:徜徉在樱色之海","stream": true}]
+  },
+  "chunfengzhimeng":
+  {
+    "catagory": "record",
+    "subtitle": "春风之梦",
+    "sounds":[{"name": "moretouhoucds:春风之梦","stream": true}]
+  },
+  "cuimengxiang":
+  {
+    "catagory": "record",
+    "subtitle": "萃梦想",
+    "sounds":[{"name": "moretouhoucds:萃梦想","stream": true}]
+  },
+  "dongfangfeixiangtian":
+  {
+    "catagory": "record",
+    "subtitle": "东方绯想天",
+    "sounds":[{"name": "moretouhoucds:东方绯想天","stream": true}]
+  },
+  "dongfeng":
+  {
+    "catagory": "record",
+    "subtitle": "东风",
+    "sounds":[{"name": "moretouhoucds:东风","stream": true}]
+  },
+  "dongfangcuimengxiang":
+  {
+    "catagory": "record",
+    "subtitle": "东方萃梦想",
+    "sounds":[{"name": "moretouhoucds:东方萃梦想","stream": true}]
+  },
+  "xingyunliushui":
+  {
+    "catagory": "record",
+    "subtitle": "行云流水",
+    "sounds":[{"name": "moretouhoucds:行云流水","stream": true}]
+  },
+  "honglou":
+  {
+    "catagory": "record",
+    "subtitle": "红楼",
+    "sounds":[{"name": "moretouhoucds:红楼","stream": true}]
+  },
+  "huaruhuanxiangyiban":
+  {
+    "catagory": "record",
+    "subtitle": "花如幻想一般",
+    "sounds":[{"name": "moretouhoucds:花如幻想一般","stream": true}]
+  },
+  "huazhiqishi":
+  {
+    "catagory": "record",
+    "subtitle": "花之骑士",
+    "sounds":[{"name": "moretouhoucds:花之骑士","stream": true}]
+  },
+  "jinxiaoshi":
+  {
+    "catagory": "record",
+    "subtitle": "今宵是飘逸的利己主义者",
+    "sounds":[{"name": "moretouhoucds:今宵是飘逸的利己主义者","stream": true}]
+  },
+  "mengyuxianshidejingjie":
+  {
+    "catagory": "record",
+    "subtitle": "梦与现实的境界",
+    "sounds":[{"name": "moretouhoucds:梦与现实的境界","stream": true}]
+  },
+  "musecangran":
+  {
+    "catagory": "record",
+    "subtitle": "暮色苍然",
+    "sounds":[{"name": "moretouhoucds:暮色苍然","stream": true}]
+  },
+  "penglaichuanshuo":
+  {
+    "catagory": "record",
+    "subtitle": "蓬莱传说",
+    "sounds":[{"name": "moretouhoucds:蓬莱传说","stream": true}]
+  },
+  "pingyihua":
+  {
+    "catagory": "record",
+    "subtitle": "凭依华",
+    "sounds":[{"name": "moretouhoucds:凭依华","stream": true}]
+  },
+  "qingsedahai":
+  {
+    "catagory": "record",
+    "subtitle": "53分钟的青色大海",
+    "sounds":[{"name": "moretouhoucds:青色大海","stream": true}]
+  },
+  "shanjiaodeshenshe":
+  {
+    "catagory": "record",
+    "subtitle": "山脚的神社",
+    "sounds":[{"name": "moretouhoucds:山脚的神社","stream": true}]
+  },
+  "shanghaihongchaguan":
+  {
+    "catagory": "record",
+    "subtitle": "上海红茶馆",
+    "sounds":[{"name": "moretouhoucds:上海红茶馆","stream": true}]
+  },
+  "suiyue":
+  {
+    "catagory": "record",
+    "subtitle": "碎月",
+    "sounds":[{"name": "moretouhoucds:碎月","stream": true}]
+  },
+  "tiankongdehuazhidu":
+  {
+    "catagory": "record",
+    "subtitle": "天空的花之都",
+    "sounds":[{"name": "moretouhoucds:天空的花之都","stream": true}]
+  },
+  "tongji":
+  {
+    "catagory": "record",
+    "subtitle": "童祭",
+    "sounds":[{"name": "moretouhoucds:童祭","stream": true}]
+  },
+  "wangshideqinggan":
+  {
+    "catagory": "record",
+    "subtitle": "亡失的情感",
+    "sounds":[{"name": "moretouhoucds:亡失的情感","stream": true}]
+  },
+  "weizhidehua":
+  {
+    "catagory": "record",
+    "subtitle": "未知的花,魅知之旅",
+    "sounds":[{"name": "moretouhoucds:未知的花","stream": true}]
+  },
+  "qichongzou":
+  {
+    "catagory": "record",
+    "subtitle": "献给女王的七重奏",
+    "sounds":[{"name": "moretouhoucds:献给女王的七重奏","stream": true}]
+  },
+  "yinghuayinghua":
+  {
+    "catagory": "record",
+    "subtitle": "樱花樱花",
+    "sounds":[{"name": "moretouhoucds:樱花樱花","stream": true}]
+  },
+  "mukougawanozuki":
+  {
+    "catagory": "record",
+    "subtitle": "月的另一侧",
+    "sounds":[{"name": "moretouhoucds:月的另一侧","stream": true}]
+  },
+  "huanxiangxiang":
+  {
+    "catagory": "record",
+    "subtitle": "众神眷恋的幻想乡",
+    "sounds":[{"name": "moretouhoucds:众神眷恋的幻想乡","stream": true}]
+  },
+  "reincarnation":
+  {
+    "catagory": "record",
+    "subtitle": "重生",
+    "sounds":[{"name": "moretouhoucds:重生","stream": true}]
+  },
+  "tiankonghedahai":
+  {
+    "catagory": "record",
+    "subtitle": "最澄澈的天空和大海",
+    "sounds":[{"name": "moretouhoucds:最澄澈的天空和大海","stream": true}]
+  },
+  "youxuandefengshu":
+  {
+    "catagory": "record",
+    "subtitle": "幽玄的枫树",
+    "sounds":[{"name": "moretouhoucds:幽玄的枫树","stream": true}]
+  },
+  "keaideguniang":
+  {
+    "catagory": "record",
+    "subtitle": "活泼可爱的姑娘",
+    "sounds":[{"name": "moretouhoucds:活泼可爱的姑娘","stream": true}]
+  },
+  "fengkuangdewuzhe":
+  {
+    "catagory": "record",
+    "subtitle": "Crazy Back Dancer",
+    "sounds":[{"name": "moretouhoucds:疯狂的舞者","stream": true}]
+  },
+  "baiselvren":
+  {
+    "catagory": "record",
+    "subtitle": "白色旅人",
+    "sounds":[{"name": "moretouhoucds:白色旅人","stream": true}]
+  },
+  "huanxiangbaiselvren":
+  {
+    "catagory": "record",
+    "subtitle": "幻想的白色旅人",
+    "sounds":[{"name": "moretouhoucds:幻想的白色旅人","stream": true}]
+  },
+  "beiyinnidesiji":
+  {
+    "catagory": "record",
+    "subtitle": "被隐匿的四季",
+    "sounds":[{"name": "moretouhoucds:被隐匿的四季","stream": true}]
+  },
+  "mishenmoduoluo":
+  {
+    "catagory": "record",
+    "subtitle": "秘神摩多罗",
+    "sounds":[{"name": "moretouhoucds:秘神摩多罗","stream": true}]
+  },
+  "ouxiangshijie":
+  {
+    "catagory": "record",
+    "subtitle": "委身于偶像世界",
+    "sounds":[{"name": "moretouhoucds:委身于偶像世界","stream": true}]
+  },
+  "renxingcaipan":
+  {
+    "catagory": "record",
+    "subtitle": "人形裁判~玩弄人偶的少女",
+    "sounds":[{"name": "moretouhoucds:人形裁判","stream": true}]
+  },
+  "xiwangzhixing":
+  {
+    "catagory": "record",
+    "subtitle": "希望之星直升青霄",
+    "sounds":[{"name": "moretouhoucds:希望之星","stream": true}]
+  },
+  "dreamland":
+  {
+    "catagory": "record",
+    "subtitle": "Dream land",
+    "sounds":[{"name": "moretouhoucds:dreamland","stream": true}]
+  },
+  "alicemaestra":
+  {
+    "catagory": "record",
+    "subtitle": "Alice maestra",
+    "sounds":[{"name": "moretouhoucds:alicemaestra","stream": true}]
+  },
+  "xihua":
+  {
+    "catagory": "record",
+    "subtitle": "昔話わんだーらんど",
+    "sounds":[{"name": "moretouhoucds:昔話わんだーらんど","stream": true}]
+  },
+  "bolishenshe":
+  {
+    "catagory": "record",
+    "subtitle": "博丽神社境内",
+    "sounds":[{"name": "moretouhoucds:博丽神社境内","stream": true}]
+  },
+  "peaceful":
+  {
+    "catagory": "record",
+    "subtitle": "peaceful",
+    "sounds":[{"name": "moretouhoucds:peaceful","stream": true}]
+  },
+  "xiaochuidemoli":
+  {
+    "catagory": "record",
+    "subtitle": "小槌的魔力",
+    "sounds":[{"name": "moretouhoucds:小槌的魔力","stream": true}]
+  },
+  "xxhh":
+  {
+    "catagory": "record",
+    "subtitle": "不思议之国的爱丽丝~嘻哈大佬arrange",
+    "sounds":[{"name": "moretouhoucds:不思议之国的爱丽丝","stream": true}]
+  }
+}
